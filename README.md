@@ -6,3 +6,5 @@ See the Kafka for Developers articles on how to use this repository on [Medium](
 Currently building using Java 21. 
 
 This repository was originally at <https://github.com/cyberycon/kafka-howto> but this is now the live version and the original repository will no longer be updated. 
+
+Changed. 
