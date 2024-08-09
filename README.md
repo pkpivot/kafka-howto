@@ -8,3 +8,5 @@ Currently building using Java 21.
 This repository was originally at <https://github.com/cyberycon/kafka-howto> but this is now the live version and the original repository will no longer be updated. 
 
 Changed. 
+
+Changed 2. 
