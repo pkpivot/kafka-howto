@@ -9,4 +9,6 @@ This repository was originally at <https://github.com/cyberycon/kafka-howto> but
 
 Changed. 
 
-Changed 2. 
+Changed 2
+
+Changed 3
